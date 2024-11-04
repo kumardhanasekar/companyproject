@@ -20,5 +20,6 @@ Run Project
 ====================
 
  Go to **File > Import**.
- In the import wizard, select **Existing Projects into Workspace** under the  **General**           category, then click **Next**.
+ In the import wizard, select 
+ **Existing Projects into Workspace** under the  **General**  category, then click **Next**.
  **Configure** **run.env**:** Add variables Excel file path and WebDriver properties in          run.env.
